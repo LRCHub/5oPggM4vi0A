@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "那些你很冒險的夢",
+  "base_artist": "林俊傑",
+  "createdAt": "2026-03-12T08:23:51.605200Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "那些你很冒險的夢",
+      "artist": "林俊傑",
+      "has_synced": true,
+      "path": "select/01_那些你很冒險的夢_林俊傑.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "那些你很冒險的夢",
+      "artist": "JJ Lin",
+      "has_synced": true,
+      "path": "select/02_那些你很冒險的夢_JJ_Lin.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "那些你很冒險的夢",
+      "artist": "林俊傑",
+      "has_synced": true,
+      "path": "select/03_那些你很冒險的夢_林俊傑.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "那些你很冒險的夢 (JJ20版)",
+      "artist": "JJ Lin",
+      "has_synced": true,
+      "path": "select/04_那些你很冒險的夢_(JJ20版)_JJ_Lin.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "那些你很冒險的夢",
+      "artist": "林俊杰",
+      "has_synced": true,
+      "path": "select/05_那些你很冒險的夢_林俊杰.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "那些你很冒險的夢",
+      "artist": "林俊傑",
+      "has_synced": true,
+      "path": "select/06_那些你很冒險的夢_林俊傑.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "那些你很冒險的夢",
+      "artist": "林俊傑 JJ Lin",
+      "has_synced": true,
+      "path": "select/07_那些你很冒險的夢_林俊傑_JJ_Lin.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "那些你很冒險的夢 (JJ20版)",
+      "artist": "林俊傑",
+      "has_synced": true,
+      "path": "select/08_那些你很冒險的夢_(JJ20版)_林俊傑.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "那些你很冒險的夢",
+      "artist": "JJ Lin 林俊傑",
+      "has_synced": true,
+      "path": "select/09_那些你很冒險的夢_JJ_Lin_林俊傑.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "那些你很冒險的夢",
+      "artist": "JJ Lin (林俊傑)",
+      "has_synced": true,
+      "path": "select/10_那些你很冒險的夢_JJ_Lin_(林俊傑).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "那些你很冒險的夢",
+      "artist": "林俊傑",
+      "has_synced": false,
+      "path": "select/pl_01_那些你很冒險的夢_林俊傑.txt"
+    }
+  ]
+}
